@@ -1,0 +1,10 @@
+pip3 install pyqt5 --only-binary pyqt5
+pip3 install numpy
+pip3 install pynput
+pip3 install pytesseract
+pip3 install mss
+pip3 install opencv-python
+pip3 install wikipedia-api
+pip3 install matplotlib
+pip3 install psutil
+
