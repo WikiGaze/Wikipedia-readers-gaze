@@ -1,5 +1,5 @@
 # Wikipedia-Analysis-through-Eye-Gaze
-We develop a standalone platform-independent tool to automatically extract text from Wikipedia based on a reader's eye movement. 
+WikiGaze is a standalone platform-independent tool to automatically extract text from Wikipedia based on a reader's eye movement. 
 
 # Languages Used
 Python
@@ -70,7 +70,8 @@ Participants are required to follow the following steps during dataset collectio
   <li>Put the camera centrally under you monitor, so that the height of your face in the image is about half of the height of the image, and close to the centre of the image. Make sure the background light level is reasonably constant across the image.</li>
   <li>Start the application and click on the summarize button.</li>
   <li>The next default step is calibration. Remember, in order for this gaze tracker to work, you must keep your head absolutely still. Press "Calibrate". You will now be asked to look at various points on the screen, indicated by a target sign. Remember: do not move your head, only your eyes!</li>
-  <li>When calibration is finished, you will be redirected to your default browser automatically. There you can start reading any Wikipedia article of your choice.</li>
+  <li>When calibration is finished, you will be redirected to your default browser automatically.</li>
+  <li> In browser, you can start reading any Wikipedia article of your choice. Do not reduce the font size of the article. Kindly read the article in 100% zoom ratio.</li>
   <li>Upon finishing the reading session, we will display the text that you focused while reading. Do the following as per your wish:</li>
     <ol style="list-style-type:lower-roman">
     <li>If you are satisfied with the text extraction, click on the Save button.</li>
